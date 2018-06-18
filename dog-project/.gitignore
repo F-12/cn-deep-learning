@@ -6,3 +6,4 @@ saved_models/
 .ipynb_checkpoints/
 bottleneck_features/
 __pycache__
+images/
